@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.type1{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+}
+.type2{
+    width: 30%;
+    position: absolute;
+    top: 19%;
+    left: 40%;
+    transform: translate(-50%-34%);
+}
+.type1{
+    width: 300px;
+    border-radius: 100px;
+}
+h1{
+position: absolute;
+top: 10%;
+left: 43%;
+
+}
