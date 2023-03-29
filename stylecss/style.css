@@ -1,29 +1,4 @@
-header{
-    overflow: hidden;
-    background-color: rgba(100, 118, 95, 0.553);
-    padding: 10px 10px;
-}
-header{
-    border-style: groove;
-    border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
-    border-color: rgb(158, 111, 111);
-    border-radius: 10px 20px 40px 30px;
-}
-footer{
-    overflow: hidden;
-    background-color: rgb(59, 59, 96);
-    padding: 5px 5px;
-}
-main{
-    border-style: groove;
-    border-width: 3px;
-    border-color: azure;
-    background-color: antiquewhite;
-    padding: 10px 10px;
-    
-}
+
   
 
 
